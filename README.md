@@ -104,20 +104,6 @@ Button(onClick = { /* aksi */ }) { Text("Klik") }
 Card { /* konten */ }
 ```
 
----
-
-## 📝 Tugas Minggu 1
-
-Modifikasi project ini agar menjadi **Form Sederhana** dengan:
-- [ ] TextField untuk **Nama Lengkap**
-- [ ] TextField untuk **NIM/NIP**
-- [ ] Button **Submit**
-- [ ] Tampilkan data yang diinput setelah Submit
-
-**Bonus:** Tambahkan validasi (NIM harus berupa angka, nama tidak boleh kosong)
-
----
-
 ## 🔗 Referensi
 
 - [Android Developers](https://developer.android.com)
