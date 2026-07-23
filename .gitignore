@@ -1,0 +1,16 @@
+# Gradle
+.gradle/
+build/
+
+# Android Studio
+.idea/
+*.iml
+
+# Local configuration
+local.properties
+
+# Kotlin
+.kotlin/
+
+# Build folders
+**/build/
