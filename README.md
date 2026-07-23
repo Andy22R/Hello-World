@@ -58,7 +58,9 @@ HelloWorldAndroid/
    - Pilih: Pixel 6 Pro, API 34, Android 14
 5. Klik tombol ▶️ **Run** (Shift + F10)
 
----
+## Screenshot Aplikasi
+<p align="center"> <img width="250" alt="image" src="https://github.com/user-attachments/assets/2681ef4a-765e-49bc-9fa0-ff75199a803b" />
+ </p
 
 ## 📚 Konsep yang Dipelajari
 
